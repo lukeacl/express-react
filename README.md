@@ -2,6 +2,10 @@
 
 This is just a barebones express server which also happens to have a react frontend. You could use something like Next.js but I wanted something that's barebones with as little bloat and unwated stuff as possible.
 
+## Before you do anything
+
+`npm install`
+
 ## Running (development)
 
 `npm run dev`
