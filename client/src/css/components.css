@@ -1,0 +1,7 @@
+.button {
+    @apply bg-sky-600 text-white rounded px-2 py-1 cursor-pointer;
+}
+
+.button:hover {
+    @apply bg-sky-500;
+}
