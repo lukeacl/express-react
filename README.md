@@ -6,6 +6,8 @@ This is just a barebones express server which also happens to have a react front
 
 `npm install`
 
+`cp .env.example .env`
+
 ## Running (development)
 
 `npm run dev`
